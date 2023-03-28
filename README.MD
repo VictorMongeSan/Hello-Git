@@ -91,3 +91,43 @@ export  $initHighlight;
 
 
 ```
+
+
+# Tablas
+
+| Columna 1 | Columna 2 | Columna 3 |
+| --------- | --------- | --------- |
+| Dato 1 | Dato 1 | Dato 1 |
+| Dato 2 | Dato 2 | Dato 2 |
+
+# Citas
+Esto es un texto para una cita que estara debajo:
+> Esto es la cita o quote se inicia con >. Para finalizar la cita dos veces enter
+
+estoy fuera de la cita.
+
+# Lineas Divisoras
+
+Texto para mostrar las lineas divisoras por guiones medio
+
+---
+
+Otro texto dividido con asteriscos
+
+***
+
+Texto dividido por guiones bajos 
+
+___
+
+# Saltos de linea
+
+Parrafo de muestra para los saltos de linea.
+
+Segundo parrafo de muestra para los saltos de linea.
+
+Tercer parrafo de muestra.
+
+
+
+
